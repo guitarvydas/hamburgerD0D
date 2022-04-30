@@ -1,0 +1,40 @@
+diagram_fact(as, cell_6, "geometry").
+diagram_fact(as, cell_7, "geometry").
+diagram_fact(aspect, cell_7, "fixed").
+diagram_fact(cell, cell_4, "").
+diagram_fact(cell, cell_5, "").
+diagram_fact(cell, cell_6, "").
+diagram_fact(cell, cell_7, "").
+diagram_fact(diagram, diagram_1, "").
+diagram_fact(fillColor, cell_7, "#fff2cc").
+diagram_fact(height, cell_6, 310).
+diagram_fact(height, cell_7, 40).
+diagram_fact(horizontal, cell_6, 1).
+diagram_fact(html, cell_6, 1).
+diagram_fact(html, cell_7, 1).
+diagram_fact(kind, cell_7, "ellipse").
+diagram_fact(mxGraphModel, mxGraphModel_2, mxGraphModel_2).
+diagram_fact(name, diagram_1, "Test Bench").
+diagram_fact(parent, cell_5, id_4zV4gCl9DzrOJ4cXlfHb__0).
+diagram_fact(parent, cell_6, id_4zV4gCl9DzrOJ4cXlfHb__1).
+diagram_fact(parent, cell_7, id_4zV4gCl9DzrOJ4cXlfHb__1).
+diagram_fact(root, root_3, root_3).
+diagram_fact(rounded, cell_6, 1).
+diagram_fact(strokeColor, cell_7, "#d6b656").
+diagram_fact(synonym, cell_4, id_4zV4gCl9DzrOJ4cXlfHb__0).
+diagram_fact(synonym, cell_5, id_4zV4gCl9DzrOJ4cXlfHb__1).
+diagram_fact(synonym, cell_6, uxdK4QsyXj__5KIUvP_6V__0).
+diagram_fact(synonym, cell_7, uxdK4QsyXj__5KIUvP_6V__1).
+diagram_fact(value, cell_6, "Test Bench").
+diagram_fact(value, cell_7, "food order").
+diagram_fact(vertex, cell_6, 1).
+diagram_fact(vertex, cell_7, 1).
+diagram_fact(verticalAlign, cell_6, "top").
+diagram_fact(whiteSpace, cell_6, "wrap").
+diagram_fact(whiteSpace, cell_7, "wrap").
+diagram_fact(width, cell_6, 870).
+diagram_fact(width, cell_7, 40).
+diagram_fact(x, cell_6, 10).
+diagram_fact(x, cell_7, 860).
+diagram_fact(y, cell_6, 10).
+diagram_fact(y, cell_7, 140).
